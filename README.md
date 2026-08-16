@@ -8,7 +8,7 @@ This repository exists only to distribute the Android test build. The app itself
 
 ## Download
 
-**[Download the latest Android build](../../releases/latest/download/apiary-field.apk)**
+**[Download the latest Android build](../../releases/latest/download/apiary-field-beta.apk)**
 
 Open that link on your phone, not on a computer.
 
