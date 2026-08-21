@@ -49,6 +49,14 @@ The app is not directed at children and does not knowingly collect information f
 
 If this policy changes, the updated version will be posted on this page with a new date at the top.
 
+## GDPR / UK GDPR
+If you are in the EEA or UK, you have the right to access, correct, or
+request deletion of any data described above. Since inspection records
+never leave your device, this mainly concerns crash reports (Sentry).
+Contact flashinglights2154@gmail.com to make a request, or lodge a
+complaint with your local Data Protection Authority
+(edpb.ec.europa.eu/about-edpb/members_en, or ico.org.uk if in the UK).
+
 ## Contact
 
 Questions about privacy, or about the app in general:
