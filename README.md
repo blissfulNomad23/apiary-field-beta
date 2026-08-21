@@ -1,6 +1,8 @@
 # Apiary Field — Android beta
 
-A hive inspection logbook for beekeepers. No account, no subscription, no cloud. Everything stays on your phone.
+A hive inspection logbook for beekeepers.
+
+No account. No subscription. Your hive and inspection records stay on your device.
 
 This repository exists only to distribute the Android test build. The app itself is closed source.
 
@@ -8,53 +10,60 @@ This repository exists only to distribute the Android test build. The app itself
 
 ## Download
 
-**[Download the latest Android build](../../releases/latest/download/apiary-field-beta.apk)**
+**[Download the latest Android build](https://github.com/blissfulNomad23/apiary-field-beta/releases/latest)**
 
-Open that link on your phone, not on a computer.
+Open that link on your phone and download the `apiary-field-beta.apk` file from the release assets.
 
 ### Installing
 
-Because this build hasn't gone through the Play Store yet, Android will ask you twice to confirm.
+Because this build hasn't gone through the Play Store yet, Android may ask you to confirm installation.
 
-1. After the download finishes, tap the file. Android will say the browser isn't allowed to install unknown apps — tap **Settings**, turn the permission on, then go back.
-2. You may then see a second screen from **Play Protect** saying the app wasn't recognised. Tap **More details**, then **Install anyway**.
+1. After the download finishes, tap the APK file.
+2. If Android says your browser isn't allowed to install unknown apps, tap **Settings**, allow installation from that source, then go back.
+3. If **Play Protect** warns that the app wasn't recognised, tap **More details**, then **Install anyway**.
 
-Neither warning means anything is wrong with the app. Android shows them for every app that hasn't been published to the Play Store.
+These warnings are expected for an APK distributed outside Google Play.
 
-When a new version is released, download the same link again and install over the top. Your records are kept.
+When a new version is released, download the latest APK and install it over the existing app. Your locally stored records should remain in place.
 
 ---
 
 ## What it does
 
-- The whole inspection is large buttons — no typing, no keyboard
-- A voice note button for each hive if you'd rather talk than tap
-- Hives are listed in the order you actually walk them, so you can't log into the wrong box
-- A high-contrast mode for reading the screen through a veil in full sun
-- Works with no signal at all
-- Export everything to a spreadsheet whenever you want, free, always
+- Large inspection controls designed to be usable with gloves
+- Voice notes for individual hives
+- Hives arranged in the order you actually walk them
+- High-contrast Sun Mode for bright outdoor conditions
+- Works without a network connection
+- CSV export is free
 
-Voice notes are recorded as audio on Android. Transcription is coming on iPhone.
+Voice notes are stored as audio on Android.
 
 ---
 
 ## What I'd like to know
 
-I'm a developer, not a beekeeper. The list of fields in the app came from reading, not from keeping bees, so some of them are probably wrong.
+I'm a developer, not a beekeeper. The inspection fields in the app came from research rather than from keeping bees myself, so real-world feedback is the most useful thing I can get.
 
-If you take it through one real inspection — with your gloves on, if you can — three questions:
+If you use Apiary Field during one real inspection, I'd especially like to know:
 
-1. **Which fields did you never touch?** I'd rather delete them than keep them.
-2. **What did you want to record and couldn't?**
-3. **Could you actually work it with gloves on, and read it in the sun?**
+1. **Which fields did you never use?**
+2. **What did you want to record but couldn't?**
+3. **Could you comfortably use it with gloves and read it in bright sunlight?**
 
-Anything else you noticed is welcome too. Please don't be polite about it.
+Anything else you notice is welcome too. Critical feedback is useful.
 
 ---
 
 ## Privacy
 
-All your records stay on your phone. See [PRIVACY.md](PRIVACY.md) for the details.
+Hive records, inspections, notes and voice recordings are stored locally on your device.
+
+Apiary Field uses limited third-party services for crash reporting and, on iOS, purchase handling.
+
+Read the full **[Privacy Policy](https://blissfulnomad23.github.io/apiary-field-beta/)**.
+
+---
 
 ## Contact
 
